@@ -1,5 +1,5 @@
 # NextDevelopment Panel Repair
-🔥 Super GOD Mode script to remove custom themes and repair the Pterodactyl Panel to its original, stable state.
+🔥 Panel Repair script to remove custom themes and repair the Pterodactyl Panel to its original, stable state.
 
 🛡 Developed by NINJA for fast, secure, and automated VPS panel optimization.
 
