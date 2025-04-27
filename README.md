@@ -28,11 +28,10 @@ Edit
 
 # ⚡ Follow the menu and remove the theme in seconds!
 
-Preview
+# Preview
 
-https://ibb.co/n8CVWxZk
 
-Notes
+# Notes
 This script will completely remove the custom resources folder and reinstall the original Pterodactyl files.
 
 Always backup your important files before running.
