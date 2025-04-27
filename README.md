@@ -24,7 +24,7 @@ bash
 Copy
 Edit
 #  Download the script
-bash <(curl -s https://raw.githubusercontent.com/next-ninja/pterodactyl-theme-remover/refs/heads/main/install.sh)
+``bash <(curl -s https://raw.githubusercontent.com/next-ninja/pterodactyl-theme-remover/refs/heads/main/install.sh)``
 
 # ⚡ Follow the menu and remove the theme in seconds!
 
