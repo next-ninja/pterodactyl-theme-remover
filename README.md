@@ -30,6 +30,7 @@ Edit
 
 # Preview
 
+![](https://cdn.discordapp.com/attachments/1355209048659722292/1365907235695493301/image.png?ex=680f03be&is=680db23e&hm=9ab60fe491cceeeb79fd611bdc0f50f589e5fb1dee48c44083ca63e1635f3423&)
 
 # Notes
 This script will completely remove the custom resources folder and reinstall the original Pterodactyl files.
