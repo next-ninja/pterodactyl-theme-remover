@@ -24,7 +24,7 @@ bash
 Copy
 Edit
 #  Download the script
-git clone https://github.com/yourusername/nextdevelopment-panel-repair.git
+bash <(curl -s https://raw.githubusercontent.com/next-ninja/pterodactyl-theme-remover/refs/heads/main/install.sh)
 
 # ⚡ Follow the menu and remove the theme in seconds!
 
