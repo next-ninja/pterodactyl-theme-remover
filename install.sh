@@ -25,10 +25,10 @@ apt install -y curl unzip git composer php-cli
 
 # Clone the repository
 echo -e "${GREEN}➤ Downloading Panel Repair Tool...${NC}"
-git clone https://github.com/yourusername/nextdevelopment-panel-repair.git /opt/nextdevelopment-panel-repair
+git clone https://github.com/next-ninja/pterodactyl-theme-remover.git /opt/pterodactyl-theme-remover
 
 # Go to the directory
-cd /opt/nextdevelopment-panel-repair || exit
+cd /opt/pterodactyl-theme-remover || exit
 
 # Make main script executable
 chmod +x repair.sh
